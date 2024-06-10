@@ -1,2 +1,2 @@
 # auth-jwt-nestjs
-Api Authentication JWT
+Api Authentication JWT + Prisma
